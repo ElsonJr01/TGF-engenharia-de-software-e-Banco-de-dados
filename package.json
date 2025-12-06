@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.12.2",
+    "bootstrap": "^5.3.8",
+    "react-router-dom": "^7.9.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "globals": "^16.5.0",
+    "stylelint": "^16.25.0",
+    "stylelint-config-standard": "^39.0.1"
+  }
+}

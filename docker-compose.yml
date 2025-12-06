@@ -1,0 +1,41 @@
+version: '3.1'
+
+services:
+  db:
+    image: mysql:8.0.29
+    container_name: jornal_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: marcela
+      MYSQL_DATABASE: theclub
+      MYSQL_USER: marcela
+      MYSQL_PASSWORD: marcela
+    ports:
+      - "3307:3306"     # expõe o MySQL na 3307 do host
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - jornal_network
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: jornal_phpmyadmin
+    restart: always
+    environment:
+      PMA_HOST: db
+      PMA_USER: marcela
+      PMA_PASSWORD: marcela
+      UPLOAD_LIMIT: 64M
+    depends_on:
+      - db
+    ports:
+      - "8085:80"
+    networks:
+      - jornal_network
+
+volumes:
+  mysql_data:
+
+networks:
+  jornal_network:
+    driver: bridge
