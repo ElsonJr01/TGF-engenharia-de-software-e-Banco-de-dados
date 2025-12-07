@@ -12,8 +12,8 @@
   <!-- Indicadores do repositório do projeto TheClub -->
   <a href="https://github.com/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados">
     <img
-      src="https://img.shields.io/github/contributors/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados?label=Contribuidores&style=for-the-badge"
-      alt="Número de contribuidores no repositório do projeto"
+      src="https://img.shields.io/github/contributors/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados?label=Contribuidores%3A%204&style=for-the-badge"
+      alt="Número de contribuidores no repositório do projeto (4 contribuidores)"
     />
     <img
       src="https://img.shields.io/github/repo-size/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados?label=Tamanho%20do%20projeto&style=for-the-badge"
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-> Principais contribuintes do projeto: **Elson**, **Mateus**, **João** e **Gustavo**, responsáveis por backend, frontend e banco de dados do jornal universitário TheClub.
+> Principais contribuintes do projeto (4 no total): **Elson**, **Mateus**, **João** e **Gustavo**, responsáveis por backend, frontend e banco de dados do jornal universitário TheClub.
 
  ---
  
