@@ -111,6 +111,7 @@ Passos:
 
 1. Clonar o repositório
 git clone (https://github.com/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados.git)
+
 cd SEU_REPO
 2. Ajustar variáveis de ambiente (banco, JWT, etc.) se necessário
 3. Subir tudo com Docker
