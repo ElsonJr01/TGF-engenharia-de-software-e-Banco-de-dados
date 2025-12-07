@@ -175,28 +175,37 @@ Contribuições são muito bem-vindas!
 
 ## 📄 Licença
 
-MIT License
+Licença de Uso Educacional Não Comercial
 
 Copyright (c) 2025 Elson Sousa, Mateus Almada e João Breder
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e dos arquivos de documentação associados (o "Software"), para
+usar, copiar, modificar e distribuir o Software **apenas para fins educacionais
+e acadêmicos**, não sendo permitido qualquer uso comercial, sujeita às
+seguintes condições:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. É estritamente proibido utilizar o Software, total ou parcialmente, para
+   fins comerciais, incluindo, mas não se limitando a:
+   - venda, aluguel, licenciamento ou sublicenciamento do Software;
+   - inclusão do Software em produtos ou serviços pagos;
+   - uso do Software em ambientes cujo objetivo principal seja obtenção de lucro.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+2. O aviso de direitos autorais acima e este aviso de permissão devem ser
+   incluídos em todas as cópias ou partes substanciais do Software.
+
+3. Modificações do Software devem deixar claro que se tratam de versões
+   modificadas, não sendo permitido sugerir que os autores originais endossam
+   tais modificações.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE
+QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS
+GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO VIOLAÇÃO.
+EM NENHUMA HIPÓTESE OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO
+RESPONSÁVEIS POR QUAISQUER REIVINDICAÇÕES, DANOS OU OUTRAS RESPONSABILIDADES,
+SEJA EM AÇÃO CONTRATUAL, EXTRACONTRATUAL OU DE OUTRA NATUREZA, DECORRENTES
+DE, OU RELACIONADAS COM, O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES COM O
 SOFTWARE.
-
 
 ---
 
