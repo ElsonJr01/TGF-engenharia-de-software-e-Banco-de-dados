@@ -1,4 +1,31 @@
+## 📊 Evolução recente do projeto (últimos 3 meses)
 
+<p align="center">
+  <!-- Card geral de atividade do usuário, incluindo o desenvolvimento do TheClub -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElsonJr01&theme=dracula"
+    alt="Evolução de contribuições (incluindo o projeto TheClub nos últimos 3 meses)"
+  />
+</p>
+
+<p align="center">
+  <!-- Indicadores do repositório do projeto TheClub -->
+  <a href="https://github.com/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados">
+    <img
+      src="https://img.shields.io/github/contributors/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados?label=Contribuidores&style=for-the-badge"
+      alt="Número de contribuidores no repositório do projeto"
+    />
+    <img
+      src="https://img.shields.io/github/repo-size/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados?label=Tamanho%20do%20projeto&style=for-the-badge"
+      alt="Tamanho do repositório do projeto"
+    />
+  </a>
+</p>
+
+> Principais contribuintes do projeto: **Elson**, **Mateus**, **João** e **Gustavo**, responsáveis por backend, frontend e banco de dados do jornal universitário TheClub.
+
+ ---
+ 
 ## 📊 Contribuição estimada da equipe
 
 <p align="center">
