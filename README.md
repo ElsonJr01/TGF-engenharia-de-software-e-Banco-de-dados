@@ -37,36 +37,35 @@ TheClub/
 ├─ pom.xml
 ├─ docker-compose.yml
 ├─ src/
-│ └─ TheCub/
-│ ├─ java/
-│ │ ├─ app/ # Controllers REST (Artigos, Categorias, Eventos, Usuários etc.)
-│ │ ├─ dominio/
-│ │ │ ├─ entidades/ # Entidades JPA (Artigo, Usuario, Categoria, Comentario...)
-│ │ │ ├─ dto/ # DTOs de request/response
-│ │ │ ├─ enums/ # Enums de domínio (StatusArtigo, TipoUsuario etc.)
-│ │ │ ├─ exception/ # Exceptions e GlobalExceptionHandler
-│ │ │ └─ model/ # Modelos auxiliares de autenticação
-│ │ ├─ lib/
-│ │ │ ├─ config/ # Configurações (CORS, Swagger, upload, WebConfig)
-│ │ │ ├─ repository/ # Repositórios Spring Data JPA
-│ │ │ ├─ security/JWT # JwtService, filtros, CustomUserDetails, SecurityConfig
-│ │ │ └─ ... # Outras libs internas
-│ │ ├─ servicos_tecnicos/ # Serviços (ArtigoService, UsuarioService etc.)
-│ │ └─ ui/ # Telas Java (caso use interface desktop/admin)
-│ └─ resources/
-│ └─ application.properties
+│  └─ TheCub/
+│     ├─ java/
+│     │  ├─ app/                 # Controllers REST (Artigos, Categorias, Eventos, Usuários etc.)
+│     │  ├─ dominio/
+│     │  │  ├─ entidades/        # Entidades JPA (Artigo, Usuario, Categoria, Comentario...)
+│     │  │  ├─ dto/              # DTOs de request/response
+│     │  │  ├─ enums/            # Enums de domínio (StatusArtigo, TipoUsuario etc.)
+│     │  │  ├─ exception/        # Exceptions e GlobalExceptionHandler
+│     │  │  └─ model/            # Modelos auxiliares de autenticação
+│     │  ├─ lib/
+│     │  │  ├─ config/           # Configurações (CORS, Swagger, upload, WebConfig)
+│     │  │  ├─ repository/       # Repositórios Spring Data JPA
+│     │  │  ├─ security/         # JwtService, filtros, CustomUserDetails, SecurityConfig
+│     │  │  └─ ...               # Outras libs internas
+│     │  ├─ servicos_tecnicos/   # Serviços (ArtigoService, UsuarioService etc.)
+│     │  └─ ui/                  # Telas Java (caso use interface desktop/admin)
+│     └─ resources/
+│        └─ application.properties
 └─ the-club-frontend/
-├─ package.json
-├─ src/
-│ ├─ api/ # Configuração base da API
-│ ├─ auth/ # Contexto de autenticação, rotas protegidas
-│ ├─ components/ # Header, Footer, CardNoticia etc.
-│ ├─ pages/ # Páginas públicas
-│ ├─ pages/admin/ # Páginas da área administrativa (Dashboard, NovaNoticia...)
-│ ├─ routes/ # Definição das rotas com React Router
-│ └─ styles/ # CSS / estilos globais
-└─ public/
-
+   ├─ package.json
+   ├─ src/
+   │  ├─ api/                    # Configuração base da API
+   │  ├─ auth/                   # Contexto de autenticação, rotas protegidas
+   │  ├─ components/             # Header, Footer, CardNoticia etc.
+   │  ├─ pages/                  # Páginas públicas
+   │  ├─ pages/admin/            # Páginas da área administrativa (Dashboard, NovaNoticia...)
+   │  ├─ routes/                 # Definição das rotas com React Router
+   │  └─ styles/                 # CSS / estilos globais
+   └─ public/
 
 ---
 
@@ -106,23 +105,19 @@ TheClub/
 ## 🐳 Executando com Docker
 
 Pré-requisitos:
-
 - Docker
 - Docker Compose
 
 Passos:
 
 1. Clonar o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
+git clone (https://github.com/ElsonJr01/TGF-engenharia-de-software-e-Banco-de-dados.git)
 cd SEU_REPO
-
 2. Ajustar variáveis de ambiente (banco, JWT, etc.) se necessário
 3. Subir tudo com Docker
 docker-compose up --build
 
-
 Acessos padrão (ajuste se usar outras portas):
-
 - Backend: http://localhost:8080  
 - Swagger UI: http://localhost:8080/swagger-ui.html  
 - Frontend: http://localhost:5173  
@@ -155,19 +150,12 @@ O Vite geralmente sobe em `http://localhost:5173`.
 
 ---
 
-## 🧪 Testes
-
-- Testes de backend podem ser executados com:
-
-
----
-
 ## 🗺️ Roadmap / próximos passos
 
 Algumas possíveis melhorias:
 
 - 🔎 Filtro avançado por tags, autores e datas
-- 📝 Editor rich text mais completo para criação de artigos
+- 📝 Editor rich text mais completo para criação de noticias
 - 📊 Dashboard com métricas de acesso/leitura
 - 🌐 Suporte a multilíngue (PT/EN)
 - 📱 PWA para acesso offline em dispositivos móveis
@@ -188,10 +176,28 @@ Contribuições são muito bem-vindas!
 
 ## 📄 Licença
 
-Defina aqui a licença desejada (MIT, Apache 2.0 etc.).  
-Exemplo:
+MIT License
 
-> Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+Copyright (c) 2025 Elson Sousa, Mateus Almada e João Breder
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 ---
 
