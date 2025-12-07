@@ -1,22 +1,19 @@
-📈 Gráfico de Participação (Markdown)
-Gráfico de Barras (simples)
-![Gráfico de Barras](./img/contribuicao_barras.png)
+🎨 Gráficos de Contribuição (imagens)
+<div align="center">
 
----
-Gráfico de Barras (proporcional em escala fixa – 50 blocos)
-Elson   | ████████████████████████ (30%)
-Mateus  | ████████████████████████ (30%)
-João    | ████████████████████████ (30%)
-Gustavo | ██████ (10%)
+📊 Gráfico de Barras
+<img src="./img/contribuicao_barras.png" width="500"/>
 
----
-             Contribuição Total
+🥧 Gráfico de Pizza
+<img src="./img/contribuicao_pizza.png" width="400"/>
 
-Elson   : ██████████████ (30%)
-Mateus  : ██████████████ (30%)
-João    : ██████████████ (30%)
-Gustavo : ███ (10%)
+🖼️ Gráfico Vetorial (SVG)
+<img src="./img/contribuicao_barras.svg" width="500"/>
 
+📘 GitHub Insights Style
+<img src="./img/contribuicao_insights.png" width="500"/>
+
+</div>
 ---
 
 # 📰 TheClub – Jornal Universitário
