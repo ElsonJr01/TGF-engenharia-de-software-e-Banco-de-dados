@@ -1,9 +1,6 @@
 📈 Gráfico de Participação (Markdown)
 Gráfico de Barras (simples)
-Elson   | ████████████████████ 30%
-Mateus  | ████████████████████ 30%
-João    | ████████████████████ 30%
-Gustavo | ████ 10%
+![Gráfico de Barras](./img/contribuicao_barras.png)
 
 ---
 Gráfico de Barras (proporcional em escala fixa – 50 blocos)
