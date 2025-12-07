@@ -11,7 +11,7 @@ O sistema apoia a comunicação institucional e estudantil, permitindo que difer
 - Painel administrativo para gestão de conteúdo e usuários
 - Backend em **Java / Spring Boot** com autenticação via **JWT**
 - Frontend em **React + Vite**, consumindo uma API REST
-- Banco de dados relacional (**MySQL**) com mapeamento via JPA
+- Banco de dados relacional (**MySQL**) com mapeamento via JPA, além da admnistração do PHPMyAdmin no MYSQL
 - Contêineres de infraestrutura orquestrados com **Docker Compose**
 
 ---
@@ -24,10 +24,10 @@ O sistema apoia a comunicação institucional e estudantil, permitindo que difer
 - **Backend:** Spring Boot, Spring Web, Spring Data JPA, Spring Security (JWT)
 - **Documentação da API:** OpenAPI/Swagger UI
 - **Frontend:** React, Vite, React Router, Context API / hooks
-- **Banco:** MySQL
+- **Banco:** MySQL, PHPMyAdmin
 - **Build:** Maven
-- **Infra:** Docker, Docker Compose
-- **Ferramentas:** IntelliJ IDEA, VS Code, Git e GitHub
+- **Infra:** Docker Desktop, Docker Compose
+- **Ferramentas:** IntelliJ IDEA, Figma, Git e GitHub
 
 ---
 
