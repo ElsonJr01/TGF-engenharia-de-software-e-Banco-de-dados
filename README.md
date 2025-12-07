@@ -1,4 +1,5 @@
 📊 Gráfico de Barras.
+
 <div align="center">
 <svg width="350" height="180" xmlns="http://www.w3.org/2000/svg">
   <rect x="20" y="40" width="40" height="100" fill="#4e79a7"/>
