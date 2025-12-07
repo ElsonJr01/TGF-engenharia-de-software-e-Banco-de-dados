@@ -1,14 +1,15 @@
-📊 Gráfico de Barras.
+📏 Gráfico de Barras Proporcional (50 blocos estilo GitHub)
 
 <div align="center">
-<svg width="350" height="180" xmlns="http://www.w3.org/2000/svg">
-  <rect x="20" y="40" width="40" height="100" fill="#4e79a7"/>
-  <rect x="80" y="20" width="40" height="120" fill="#59a14f"/>
-  <rect x="140" y="70" width="40" height="70" fill="#f28e2b"/>
-  <rect x="200" y="50" width="40" height="90" fill="#e15759"/>
-  <rect x="260" y="90" width="40" height="50" fill="#76b7b2"/>
+<svg width="420" height="40">
+  <rect width="50" height="20" fill="#238636"/>
+  <rect x="55" width="40" height="20" fill="#3fb950"/>
+  <rect x="100" width="30" height="20" fill="#a3e635"/>
+  <rect x="135" width="20" height="20" fill="#fde047"/>
+  <rect x="160" width="10" height="20" fill="#f97316"/>
 </svg>
 </div>
+
 
 
 ---
