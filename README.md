@@ -31,8 +31,6 @@ O sistema apoia a comunicação institucional e estudantil, permitindo que difer
 
 ---
 
-## 📂 Estrutura do Projeto
-
 ## 📁 Estrutura do Projeto
 
 - `TheClub/`
