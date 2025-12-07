@@ -1,36 +1,19 @@
-📊 Gráfico de Barras Horizontal (color style simulando destaque)
-
-(30% / 30% / 30% / 10%)
-### 📊 Gráfico de Barras (Simples)
-Elson   | ████████████████████ 30%
-Mateus  | ████████████████████ 30%
-João    | ████████████████████ 30%
-Gustavo | ████ 10%
-
+🎨 Gráficos de Contribuição
+📊 Gráfico de Barras
+<div align="center"> <img src="https://quickchart.io/chart/render/zm-1a23fbc2-1234-4aaa-9ccc-112233abcdef" alt="Gráfico de Barras"> </div>
 📏 Gráfico de Barras Proporcional — Escala 50 blocos
 
-(cada █ = ~1%)
+🥧 Gráfico de Pizza
+<div align="center"> <img src="https://quickchart.io/chart/render/zm-2bb44de9-2233-4ccc-9555-bb11cc44ddee" alt="Gráfico de Pizza"> </div>
 
-### 📏 Gráfico de Barras (Escala 50 blocos)
-Elson   | ████████████████████████ (30%)
-Mateus  | ████████████████████████ (30%)
-João    | ████████████████████████ (30%)
-Gustavo | ██████ (10%)
+🖼️ Gráfico Vetorial (SVG)
+<div align="center"> <img src="https://quickchart.io/chart/render/svg/zm-3cc55ef0-3344-4ddd-a666-ab22dd55eeff" alt="Gráfico SVG"> </div>
 
-🥧 Gráfico de Pizza ASCII — Ultra Visual
+📘 Estilo GitHub Insights
+<div align="center"> <img src="https://quickchart.io/chart/render/zm-4dd66ff1-4455-4eee-b777-ac33ee66ff00" alt="Gráfico estilo GitHub Insights"> </div>
 
-### 🥧 Gráfico de Pizza (ASCII)
-
-              ┌───────────────────────────────┐
-              │     Contribuição Total         │
-              └───────────────────────────────┘
-
-            ╔══════════════════════════════╗
-            ║ Elson   (30%)  ██████████████ ║
-            ║ Mateus  (30%)  ██████████████ ║
-            ║ João    (30%)  ██████████████ ║
-            ║ Gustavo (10%)  ███            ║
-            ╚══════════════════════════════╝
+🚀 Atividades Recentes (no mesmo estilo que você pediu)
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElsonJr01&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de atividades no GitHub" /> </div>
 
 ---
 
