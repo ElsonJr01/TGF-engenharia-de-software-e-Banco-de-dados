@@ -1,30 +1,13 @@
-## 🚀 Atividades Recentes
 
-<div align="center">
-  <img 
-    src="https://quickchart.io/chart/render/zm-123abc?chart={
-      type:'bar',
-      data:{
-        labels:['Commits','Pull Requests','Issues','Repositórios Criados','Contribuições'],
-        datasets:[{
-          label:'Atividades',
-          data:[120,45,32,18,150],
-          backgroundColor:['#4e79a7','#59a14f','#f28e2b','#e15759','#76b7b2']
-        }]
-      },
-      options:{
-        indexAxis:'y',
-        plugins:{
-          legend:{display:false},
-          title:{display:true,text:'Atividades Recentes de ElsonJr01'}
-        }
-      }
-    }" 
-    alt="Gráfico de Atividades Recentes"
-    width="600"
+## 📊 Contribuição estimada da equipe
+
+<p align="center">
+  <img
+    src="the-club-frontend/imagem.grafico-contribuicao.png"
+    alt="Gráfico de contribuição da equipe (Elson 30%, Mateus 30%, João 30%, Gustavo 10%)"
+    width="420"
   />
-</div>
-
+</p>
 
 ---
 
