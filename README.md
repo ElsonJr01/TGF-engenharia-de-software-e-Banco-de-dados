@@ -1,15 +1,29 @@
-📏 Gráfico de Barras Proporcional (50 blocos estilo GitHub)
+## 🚀 Atividades Recentes
 
 <div align="center">
-<svg width="420" height="40">
-  <rect width="50" height="20" fill="#238636"/>
-  <rect x="55" width="40" height="20" fill="#3fb950"/>
-  <rect x="100" width="30" height="20" fill="#a3e635"/>
-  <rect x="135" width="20" height="20" fill="#fde047"/>
-  <rect x="160" width="10" height="20" fill="#f97316"/>
-</svg>
+  <img 
+    src="https://quickchart.io/chart/render/zm-123abc?chart={
+      type:'bar',
+      data:{
+        labels:['Commits','Pull Requests','Issues','Repositórios Criados','Contribuições'],
+        datasets:[{
+          label:'Atividades',
+          data:[120,45,32,18,150],
+          backgroundColor:['#4e79a7','#59a14f','#f28e2b','#e15759','#76b7b2']
+        }]
+      },
+      options:{
+        indexAxis:'y',
+        plugins:{
+          legend:{display:false},
+          title:{display:true,text:'Atividades Recentes de ElsonJr01'}
+        }
+      }
+    }" 
+    alt="Gráfico de Atividades Recentes"
+    width="600"
+  />
 </div>
-
 
 
 ---
