@@ -1,3 +1,27 @@
+📈 Gráfico de Participação (Markdown)
+Gráfico de Barras (simples)
+Elson   | ████████████████████ 30%
+Mateus  | ████████████████████ 30%
+João    | ████████████████████ 30%
+Gustavo | ████ 10%
+
+---
+Gráfico de Barras (proporcional em escala fixa – 50 blocos)
+Elson   | ████████████████████████ (30%)
+Mateus  | ████████████████████████ (30%)
+João    | ████████████████████████ (30%)
+Gustavo | ██████ (10%)
+
+---
+             Contribuição Total
+
+Elson   : ██████████████ (30%)
+Mateus  : ██████████████ (30%)
+João    : ██████████████ (30%)
+Gustavo : ███ (10%)
+
+---
+
 # 📰 TheClub – Jornal Universitário
 
 TheClub é uma aplicação web de jornal universitário desenvolvida para organizar e divulgar notícias, eventos, editais e projetos acadêmicos da universidade.  
