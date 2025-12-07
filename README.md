@@ -37,35 +37,35 @@ TheClub/
 ├─ pom.xml
 ├─ docker-compose.yml
 ├─ src/
-│  └─ TheCub/
-│     ├─ java/
-│     │  ├─ app/                 # Controllers REST (Artigos, Categorias, Eventos, Usuários etc.)
-│     │  ├─ dominio/
-│     │  │  ├─ entidades/        # Entidades JPA (Artigo, Usuario, Categoria, Comentario...)
-│     │  │  ├─ dto/              # DTOs de request/response
-│     │  │  ├─ enums/            # Enums de domínio (StatusArtigo, TipoUsuario etc.)
-│     │  │  ├─ exception/        # Exceptions e GlobalExceptionHandler
-│     │  │  └─ model/            # Modelos auxiliares de autenticação
-│     │  ├─ lib/
-│     │  │  ├─ config/           # Configurações (CORS, Swagger, upload, WebConfig)
-│     │  │  ├─ repository/       # Repositórios Spring Data JPA
-│     │  │  ├─ security/         # JwtService, filtros, CustomUserDetails, SecurityConfig
-│     │  │  └─ ...               # Outras libs internas
-│     │  ├─ servicos_tecnicos/   # Serviços (ArtigoService, UsuarioService etc.)
-│     │  └─ ui/                  # Telas Java (caso use interface desktop/admin)
-│     └─ resources/
-│        └─ application.properties
+│ └─ TheCub/
+│ ├─ java/
+│ │ ├─ app/ # Controllers REST (Artigos, Categorias, Eventos, Usuários etc.)
+│ │ ├─ dominio/
+│ │ │ ├─ entidades/ # Entidades JPA (Artigo, Usuario, Categoria, Comentario...)
+│ │ │ ├─ dto/ # DTOs de request/response
+│ │ │ ├─ enums/ # Enums de domínio (StatusArtigo, TipoUsuario etc.)
+│ │ │ ├─ exception/ # Exceptions e GlobalExceptionHandler
+│ │ │ └─ model/ # Modelos auxiliares de autenticação
+│ │ ├─ lib/
+│ │ │ ├─ config/ # Configurações (CORS, Swagger, upload, WebConfig)
+│ │ │ ├─ repository/ # Repositórios Spring Data JPA
+│ │ │ ├─ security/ # JwtService, filtros, CustomUserDetails, SecurityConfig
+│ │ │ └─ ... # Outras libs internas
+│ │ ├─ servicos_tecnicos/ # Serviços (ArtigoService, UsuarioService etc.)
+│ │ └─ ui/ # Telas Java (caso use interface desktop/admin)
+│ └─ resources/
+│ └─ application.properties
 └─ the-club-frontend/
-   ├─ package.json
-   ├─ src/
-   │  ├─ api/                    # Configuração base da API
-   │  ├─ auth/                   # Contexto de autenticação, rotas protegidas
-   │  ├─ components/             # Header, Footer, CardNoticia etc.
-   │  ├─ pages/                  # Páginas públicas
-   │  ├─ pages/admin/            # Páginas da área administrativa (Dashboard, NovaNoticia...)
-   │  ├─ routes/                 # Definição das rotas com React Router
-   │  └─ styles/                 # CSS / estilos globais
-   └─ public/
+├─ package.json
+├─ src/
+│ ├─ api/ # Configuração base da API
+│ ├─ auth/ # Contexto de autenticação, rotas protegidas
+│ ├─ components/ # Header, Footer, CardNoticia etc.
+│ ├─ pages/ # Páginas públicas
+│ ├─ pages/admin/ # Páginas da área administrativa (Dashboard, NovaNoticia...)
+│ ├─ routes/ # Definição das rotas com React Router
+│ └─ styles/ # CSS / estilos globais
+└─ public/
 
 ---
 
