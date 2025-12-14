@@ -1,0 +1,73 @@
+############################
+# Maven / Java
+############################
+target/
+!/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+############################
+# Node / Frontend
+############################
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-error.log*
+
+############################
+# Environment
+############################
+.env
+.env.local
+.env.production
+.env.development
+
+############################
+# IntelliJ IDEA
+############################
+.idea/
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+out/
+
+############################
+# Eclipse
+############################
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+############################
+# NetBeans
+############################
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+############################
+# VS Code
+############################
+.vscode/
+
+############################
+# Uploads / temporários
+############################
+uploads/
+
+############################
+# Sistema Operacional
+############################
+.DS_Store
+Thumbs.db
